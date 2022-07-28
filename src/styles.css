@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.form-label{
+   @apply block font-bold text-sm text-gray-700 mb-2 uppercase;
+}
